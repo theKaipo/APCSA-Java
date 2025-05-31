@@ -7,18 +7,18 @@ public class AlphaOrder {
 		//March 10th
 		//CS121/APCSA
 		ArrayList<String> names = new ArrayList<String>();
-		names.add("Eldon");
-		names.add("Aiden");
-		names.add("Sami");
-		names.add("Jaden");
-		names.add("Annaliese");
-		names.add("Mico");
-		names.add("Anatolii");
-		names.add("Jacob");
-		names.add("Ruvim");
-		names.add("Gabby");
+		names.add("Apple");
+		names.add("Afro");
+		names.add("Sushi");
+		names.add("Joker");
+		names.add("Allow");
+		names.add("Mice");
+		names.add("Oranges");
+		names.add("Pineapple");
+		names.add("Strawberry");
+		names.add("Banana");
 		names.add("Kaipo");
-		names.add("Cooper");		
+		names.add("Cookies");		
 		System.out.println(names);
 		
 		System.out.println("Riverside".compareTo("Ravens"));
