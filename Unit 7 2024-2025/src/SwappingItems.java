@@ -8,8 +8,8 @@ public class SwappingItems {
 		//APCSACS121
 		
 		ArrayList<String> names = new ArrayList<String>();
-		names.add("Mary");
-		names.add("Robyn");
+		names.add("orange");
+		names.add("apple");
 		
 		System.out.println("original: " + names);
 		
