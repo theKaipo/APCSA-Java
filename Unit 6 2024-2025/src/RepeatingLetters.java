@@ -2,7 +2,7 @@
 public class RepeatingLetters {
 
 	public static void main(String[] args) {
-		String[] names= {"Kaipo","Gabby", "Ruvim","Jacob","Annaliese","Aiden","Eldon","Cami","Jaden"};
+		String[] names= {"Kaipo","name1", "name12","name123","name1234","name12345","name123456","name1234567","name12345678"};
 		System.out.println("The number of double letters in my array is: " + doubleLetters(names));
 	}
 	
