@@ -6,7 +6,7 @@ public class OddLengthNames {
 		//2/5/2025
 		//CS121/APCSA
 		//Swapping and ArrayCounting
-		String [] names = {"Kaipo", "Gabby","Ravim", "Jacob", "even"};
+		String [] names = {"Kaipo", "name1","name12", "name123", "even"};
 		//Print original Array
 		for(String n:names) {
 			System.out.print(n + " ");
