@@ -9,18 +9,18 @@ public class ArrayListTraversal {
 		//Tranversing an array list
 		
 		ArrayList<String> names = new ArrayList<String>();
-		names.add("Eldon");
-		names.add("Aiden");
-		names.add("Sami");
-		names.add("Jaden");
-		names.add("Annaliese");
-		names.add("Mico");
-		names.add("Anatolii");
-		names.add("Jacob");
-		names.add("Ruvim");
-		names.add("Gabby");
+		names.add("name1");
+		names.add("name12");
+		names.add("name123");
+		names.add("name1234");
+		names.add("name12345");
+		names.add("name123456");
+		names.add("name1234567");
+		names.add("name12345678");
+		names.add("name123456789");
+		names.add("Cookies");
 		names.add("Kaipo");
-		names.add("Cooper");
+		names.add("Blueberry");
 		
 		System.out.println(names);
 		
