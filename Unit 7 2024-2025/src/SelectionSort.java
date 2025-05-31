@@ -13,9 +13,9 @@ public class SelectionSort {
 		list.add(5); list.add(-1); list.add(0); 
 		list.add(4); list.add(8); list.add(3);
 		ArrayList<String> names = new ArrayList<String>();
-		names.add("Eldon");names.add("Aiden");names.add("Cami");names.add("Jaden");
-		names.add("Annaliese");names.add("Mico");names.add("Anatolii");names.add("Jacob");
-		names.add("Ruvim");names.add("Gabby");names.add("Kaipo");names.add("Cooper");		
+		names.add("Strawberry");names.add("Pineapple");names.add("Apple");names.add("Blueberry");
+		names.add("Grapes");names.add("Lime");names.add("Rasberry");names.add("Peach");
+		names.add("Banana");names.add("Mango");names.add("Kaipo");names.add("Orange");		
 		
 		sortArray(arr);
 		sortArrayList(list);
