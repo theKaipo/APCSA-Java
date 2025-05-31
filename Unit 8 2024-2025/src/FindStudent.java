@@ -6,8 +6,8 @@ public class FindStudent {
 		//March 24, 2025
 		//CS121/APCSA
 		
-		String[][] seatingChart = {{"Cooper", "Eldon", "Jacob", "Aidan", "Jaden", "Mico"}, 
-				{"Ruvim", "Anatolii", "Annaliese", "Gabby", "Cami", "Kaipo"}
+		String[][] seatingChart = {{"Apple", "Strawberry", "Mango", "Pineapple", "Blueberry", "Rasberry"}, 
+				{"Orange", "Grape", "Banana", "Lime", "Cookies", "Kaipo"}
 		};
 		
 		Scanner kb = new Scanner(System.in);
